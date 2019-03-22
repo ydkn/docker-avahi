@@ -1,5 +1,5 @@
 FROM alpine:3.9
-MAINTAINER Florian Schwab <me@ydkn.de>
+MAINTAINER Florian Schwab <me@ydkn.io>
 
 # update system
 RUN apk --no-cache --no-progress upgrade
